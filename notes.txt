@@ -1,1 +1,0 @@
-Do this but trace the path of the dots while moving them vertically
